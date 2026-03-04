@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привет! Меня зовут Черевко Григорий 👋
 
-<!--
-**JlLiyBoop/JlLiyBoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 О себе
+Я студент УГНТУ. 
+Люблю создавать что-то новое и решать сложные задачи.
 
-Here are some ideas to get you started:
+## 💼 Опыт работы
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 **Microsoft** - Бета-тестер обновлений, которые всё ломают (2023)
+- 🏢 **Apple** - Профессиональный ненавистник Lightning порта (2022)
+- 🏢 **Meta** - Смотритель за горизонтом событий (2021)
+- 🏢 **Amazon** - Упаковщик пикселей (2020)
+- 🏢 **Netflix** - Тестировщик сериалов под видом работы (2019)
+
+## 🎓 Курсы и сертификаты
+
+- 📜 Курс "Как объяснить маме что ты реально работаешь" (2023)
+- 📜 Сертификат "Профессиональный гуглер 80 lvl" (2022)
+- 📜 Диплом "Магистр кофеварения в IT сфере" (2021)
+- 📜 Курс "Stack Overflow без интернета" (2020)
+
+## 📫 Как со мной связаться
+- 📧 Email: zzakazzaklol@gmail.com
+- 💬 Telegram: @JlLiy
+
+## 📈 Недавняя активность
+<!--START_SECTION:activity-->
+<!-- Здесь будет отображаться ваша активность -->
+<!--END_SECTION:activity-->
